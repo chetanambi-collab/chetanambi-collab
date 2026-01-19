@@ -12,6 +12,8 @@ I'm Engineering  undergraduater in CSE branch<br>I'm currently learning PYTHON p
 ![](https://github-readme-stats.vercel.app/api?username=chetanambi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chetanambi-collab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanambi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+LANGUAGES:
+python programming
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chetanambi-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
